@@ -6,4 +6,4 @@
 4. rake db:migrate
 5. rake db:seed
 6. shotgun
-7. Открыть localehost:9393
+7. Открыть localhost:9393
